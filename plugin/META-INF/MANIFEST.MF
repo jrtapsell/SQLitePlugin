@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SQLite Provider
+Bundle-SymbolicName: sqlite
+Bundle-Version: 3.16.1
+Bundle-ClassPath: sqlite-jdbc-3.16.1.jar
+Bundle-Vendor: Xerial (Repackaged by Jrtapsell)
+Export-Package: org.sqlite,
+ org.sqlite.core,
+ org.sqlite.date,
+ org.sqlite.javax,
+ org.sqlite.jdbc3,
+ org.sqlite.jdbc4,
+ org.sqlite.util
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

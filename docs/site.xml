@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/sqliteFeature_3.16.1.jar" id="sqliteFeature" version="3.16.1">
+      <category name="uk.co.jrtapsell.javafx.catagory"/>
+   </feature>
+   <category-def name="uk.co.jrtapsell.javafx.catagory" label="Utilities"/>
+</site>
